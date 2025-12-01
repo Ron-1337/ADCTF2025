@@ -42,8 +42,8 @@
 | 题目名称                    | 题目难度 | 题目仓库链接                                                 | 出题人       |
 | --------------------------- | -------- | ------------------------------------------------------------ | ------------ |
 | BaseHajimi                  | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-BaseHajimi  | Luminoria    |
-| フラッグモザイク            | Easy     |                                                              | Phrinky      |
-| secure-account              | Expert   |                                                              | Phrinky      |
+| フラッグモザイク            | Easy     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/flag-mosaic | Phrinky      |
+| secure-account              | Expert   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/secure-account | Phrinky      |
 | rickylang                   | Hard     |                                                              | Teru SHigure |
 | Click the Circles           | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Click-the-Circles | Luminoria    |
 | 欢迎来到我的 Github Profile | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Welcome-to-My-Profile | Luminoria    |
@@ -52,9 +52,9 @@
 
 | 题目名称           | 题目难度 | 题目仓库链接 | 出题人  |
 | ------------------ | -------- | ------------ | ------- |
-| Neko Q&A           | Normal   |              | Phrinky |
+| Neko Q&A           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/nekoqa | Phrinky |
 | ヰヰQA             | Normal   |              | LSJGP   |
-| 广工问答           | Normal   |              | Phrinky |
+| 广工问答           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/gdutqa | Phrinky |
 | 我们一起回去好不好 | Normal   |              | Ron     |
 
 ### PPC
@@ -63,7 +63,7 @@
 | --------------- | -------- | ------------------------------------------------------------ | --------- |
 | Plain HTTP Data | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Plain-HTTP-Data | Luminoria |
 | 找回订单        | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Recover-Orders | Luminoria |
-| 听题作答        | Hard     |                                                              | Phrinky   |
+| 听题作答        | Hard     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/calc | Phrinky   |
 
 ### PWN
 
@@ -82,14 +82,14 @@
 | TemariWant2Eat 1       | Easy     |              | lrhtony      |
 | TemariWant2Eat 2       | Hard     |              | lrhtony      |
 | 签到                   | Easy     |              | lrhtony      |
-| cspyshell              | Expert   |              | Phrinky      |
+| cspyshell              | Expert   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/cspyshell | Phrinky      |
 | 信号干扰器             | Expert   |              | Jeremiah     |
-| ezenc                  | Hard     |              | Phrinky      |
-| モア！ジャンプ！モア！ | Hard     |              | Phrinky      |
+| ezenc                  | Hard     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/ezenc | Phrinky      |
+| モア！ジャンプ！モア！ | Hard     | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/more-jump-more | Phrinky      |
 | rkk_re                 | Master   |              | Teru Shigure |
 | 明风支付               | Master   |              | Jeremiah     |
 | canUCit                | Normal   |              | Ron          |
-| 野兽仙贝的呐喊         | Normal   |              | Phrinky      |
+| 野兽仙贝的呐喊         | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/yajusenpai | Phrinky      |
 
 ### Web
 
@@ -98,11 +98,11 @@
 | Crossy Road        | Easy     | https://github.com/GDUTMeow-Challenges/Challenge-Crossy-Road | Luminoria |
 | ez_upload          | Easy     |                                                              | LSJGP     |
 | tradingPlatform1   | Easy     |                                                              | Ron       |
-| phf                | Expert   |                                                              | Phrinky   |
+| phf                | Expert   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/phf | Phrinky   |
 | Interstellar       | Hard     |                                                              | Rusty     |
 | tradingPlatform2   | Hard     |                                                              | Ron       |
-| PacmanOL           | Normal   |                                                              | Phrinky   |
-| SlowUGI-Downloader | Normal   |                                                              | Phrinky   |
+| PacmanOL           | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/pacman-ol | Phrinky   |
+| SlowUGI-Downloader | Normal   | https://github.com/ricky8955555/adctf-2025-challenges/tree/main/challenges/slowugi-downloader | Phrinky   |
 | Worthit            | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-WorthIt     | Luminoria |
 | Y2K Bank           | Normal   | https://github.com/GDUTMeow-Challenges/Challenge-Y2K-Bank    | Luminoria |
 
